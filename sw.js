@@ -1,4 +1,4 @@
-const CACHE_NAME = 'fsh-mobile-v31';
+const CACHE_NAME = 'fsh-mobile-v32';
 const SHELL = ['./', './manifest.webmanifest', './icon-192.png', './apple-touch-icon.png'];
 self.addEventListener('install', (e) => {
   self.skipWaiting();
